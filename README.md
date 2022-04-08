@@ -1,3 +1,7 @@
 Add text
-Conflict 
+
+
 somemore
+
+
+conflict on branch 1
