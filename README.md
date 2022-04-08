@@ -1,3 +1,3 @@
 Add text
-Add more
+Conflict 
 somemore
