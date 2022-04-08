@@ -3,4 +3,4 @@ Add more
 somemore
 
 
-editing on branch 1
+conflict on branch 1
